@@ -1,0 +1,17 @@
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Application.deps.json
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Application.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\ref\DeslocamentoAPI.Application.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Application.pdb
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Data.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Domain.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Data.pdb
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\bin\Debug\net6.0\DeslocamentoAPI.Domain.pdb
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.AssemblyInfo.cs
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.csproj.CopyComplete
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\ref\DeslocamentoAPI.Application.dll
+C:\Users\Alunos\Documents\jaque_2\Jaque2\DeslocamentoAPI\Deslocamento.Aplication\obj\Debug\net6.0\DeslocamentoAPI.Application.pdb
